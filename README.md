@@ -1,1 +1,1 @@
-# delta-projects
+# delta-project
